@@ -11,3 +11,5 @@ Projektin logbook
 | 10.5.2025  | 3h             | yrittämistä saada serveri toimimaan
 | 13.5.2025  | 5h             | koodausta
 | 14.5.2025  | 7h             | loppu koodaukset, githubin toimimaan saanti ja loppu teot.
+
+Kokonaiset tunnit 33h
