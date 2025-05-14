@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "path-to-regexp": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinohyttinen/KalenteriWeb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tinohyttinen/KalenteriWeb/issues"
+  },
+  "homepage": "https://github.com/tinohyttinen/KalenteriWeb#readme",
+  "description": ""
+}
