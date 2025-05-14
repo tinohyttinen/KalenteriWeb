@@ -1,0 +1,9 @@
+Perusrunko ja päätoiminnallisuudet
+Kehitin projektin Node.js palvelimella ja React-frontendillä.
+Backendin toteutin express.js:llä ja se myös käsittelee API-pyynnöt 
+Frontendin toteutin Reactilla.
+Tietokantaa minulla ei ole käytössä vielä, mutta se voisi olla joku mitä parantaa tulevaisuudessa.
+Projektissani frontend ja backend kommunikoivat API:n kautta. kansio rakennelma on client/, server/, public/. Express reitittää frontendin pääsivuun.
+Toiminnalisuuksia projektissa on voi lisätä tapahtumia ja muokata niitä.
+En ole mitenkään suuremmin testannut olen siinä käyttänyt tekoälyä apuna. Virheiden hallinassa löysin Middleware joka hyvin ohjasi minua niiden kanssa.
+Käyttöliittymän suunnittelin selkeäksi ja helpoksikäyttää. toteutin sen Reactilla ja CSS:llä.
